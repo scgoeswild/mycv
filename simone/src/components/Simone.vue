@@ -1,11 +1,11 @@
 <template>
   <div class="hello">
     <h1>Simone Chinaglia</h1>
-    <p>Software Developer, VueJs Collaborator and git passionate</p>
+    <p>e-Commerce reliability engineer & Customer Centric Services Designer [Como].<br/>
+      Negli ultimi anni ho curato ho curato diversi progetti web, <br/>tra cui: Naj-Oleari, MAFRA, Pelletterie D&D, Ristrutturazione Case, Davide Van de Sfroos ...</p>
     <ul>
-      <li><a href="https://blog.simonechinaglia.net" target="_blank">Blog</a></li>
+      <li><a href="mailto:hello@simonechinaglia.net" target="_blank">Email</a></li>
       <li><a href="https://www.linkedin.com/in/simonechinaglia/" target="_blank">Linkedin</a></li>
-      <li><a href="/#/Welcome">CV</a></li>
     </ul>
   </div>
 </template>

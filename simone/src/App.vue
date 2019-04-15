@@ -22,6 +22,7 @@ body {
     color: #222;
     margin: 0;
     height: 100%;
+  border: 1px solid #696969;
 }
 html {
     padding: 1rem;
@@ -32,6 +33,7 @@ html {
     text-align: center;
     color: #2c3e50;
     height: 100%;
+  padding: 20px;
 }
 
 .home{
